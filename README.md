@@ -16,6 +16,6 @@ The game has the following functionality:
 - Pressing `QUIT` to quit the game
 - Changing of the window dimension will only change the size, but not the relative position and aspect ratio of any component. 
 - Changing the parameters of the game:
- - M – scoring factor (range: 1-10).
- - N – number of rows required for each Level of difficulty (range: 20-50).
- - S – speed factor (range: 0.1-1.0).
+ -- M – scoring factor (range: 1-10).
+ -- N – number of rows required for each Level of difficulty (range: 20-50).
+ -- S – speed factor (range: 0.1-1.0).
